@@ -270,6 +270,12 @@
 
 #### What do I truly value?
 
+#### what do I think success is?
+
+#### what do I think is important to accomplish by the tim you are X0 yr old?
+
+#### what do you want to leave as a legacy?
+
 #### Summary
 
 #### Metrics
