@@ -5,6 +5,8 @@
 
 > Summum Bonum - wisdom, courage, self-control and justice.
 
+[Remind yourself of the Toolbox Fallacy](https://www.youtube.com/watch?v=sz4YqwH_6D0)
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [New Year's Resolve #](#new-years-resolve-)
