@@ -343,6 +343,7 @@
 
 
 ### 4. Money & Finances ###
+> [Read this FIRE post and punch the numbers](https://minafi.com/interactive-guide-early-retirement-financial-independence)
 
 *The past year...*
 #### 1. What went well?
