@@ -7,6 +7,8 @@
 
 [Remind yourself of the Toolbox Fallacy](https://www.youtube.com/watch?v=sz4YqwH_6D0)
 
+[Desiderata - A sagely prose poem](http://mwkworks.com/desiderata.html)
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [New Year's Resolve #](#new-years-resolve-)
