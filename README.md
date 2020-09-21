@@ -5,6 +5,8 @@
 
 > Summum Bonum - wisdom, courage, self-control and justice.
 
+>You will forget the people who hurt you. But you will remember the people you hurt. You will accept the things you tried and failed. But you will regret not trying. Going against your ethics will leave scars on your soul, and the reasons for doing so will seem so stupid in hindsight.
+
 [Remind yourself of the Toolbox Fallacy](https://www.youtube.com/watch?v=sz4YqwH_6D0)
 
 [Desiderata - A sagely prose poem](http://mwkworks.com/desiderata.html)
