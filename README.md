@@ -27,6 +27,7 @@
 
 
 ### 1. Values & Purpose ###
+> This is where the detail begins...
 
 *The past year...*
 #### 1. What went well?
@@ -46,13 +47,11 @@
 
 #### What is my philosophy of life?
 
-#### What are my fundamental values?
-
-#### What do I truly value?
+#### What are my fundamental values? What do I truly value?
 
 #### what do I think success is?
 
-#### what do I think is important to accomplish by the tim you are X0 yr old?
+#### what do I think is important to accomplish by the time you are X0 yr old?
 
 #### what do you want to leave as a legacy?
 
@@ -94,10 +93,10 @@
 
 #### Rating
 
-#### What single thing, if successfully performed, would have the biggest impact here? ####
+#### What single thing, if successfully performed, would have the biggest impact here? 
 
 
-### 3. Location & Tangibles ###
+### 3. Location & Tangibles
 
 *The past year...*
 #### 1. What went well?
@@ -108,11 +107,10 @@
 #### 4. Where did you not try hard enough?
 #### Do I have material sufficiency?
 #### Where do I live? Where is my home? Where in the world am I?
-#### What is my living situation like?
+#### What is my living situation like? Are you happy with it?
 
 #### Am I tied to one location? Am I readily mobile (if desired)?
 #### How much stuff do I own? Do I have too many things?
-#### Is my life cluttered?
 #### Summary
 #### Milestones/Accomplishments/Failures
 #### Metrics
@@ -136,8 +134,7 @@
 
 #### What is the status of my assets and investments?
 #### Do I know where my money goes?
-#### Do I budget? What is my budget?
-#### Am I aware of how I spend my money?
+#### Do I budget? What is my budget? Am I aware of how I spend my money?
 #### How do I want to be spending my money?
 #### Are my finances organized?
 #### Do I have any (unwanted) debt?
@@ -175,7 +172,7 @@
 
 #### Am I engaged?
 
-#### I well-positioned and networked within my industry?
+#### Am I well-positioned and networked within my industry?
 
 #### How stressful is my career/work?
 
@@ -207,8 +204,7 @@
 
 #### Do you exercise? What form? How often?
 
-#### How much do I sleep on average?
-#### I getting good quality sleep?
+#### How much do I sleep on average? Am I getting good quality sleep?
 #### How much do I weigh?
 #### What is my resting heart rate?
 #### Are there any health risks that run in my family? Am I taking adequate steps to address these?
@@ -305,7 +301,7 @@
 #### 3. Where did you try hard?
 #### 4. Where did you not try hard enough?
 #### What identity do I have?
-#### Is my identity small? http://www. paulgraham.com/identity.html
+#### Is my identity small? [read this](http://www.paulgraham.com/identity.html)
 #### What are my key strengths and weak- nesses?
 #### What are my greatest virtues and vices?
 #### How do I rate my compassion, integ- rity, empathy, honor, self-discipline, self-awareness, responsibility, cour- age, focus, authenticity, confidence, persistence, effectiveness, etc.?
@@ -355,7 +351,6 @@
 #### Metrics
 #### Rating
 #### What single thing, if successfully performed, would have the biggest impact here?
-
 
 # Revisit bucket list #
 ### Add
