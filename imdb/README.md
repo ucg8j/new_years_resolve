@@ -15,6 +15,9 @@ This writes a csv `top_250_watched.csv`
 
 3. Run `imdb_watched_stats.py`
 
+```
+python3 imdb_watched_stats.py
+```
 
 ## TODOs
 - if user has an imdb account they may have used it to record what they have watched - get that data and merge it with any manually added data
