@@ -1,5 +1,9 @@
 import imdb
 import pandas as pd
+import os.path
+
+if os.path.isfile('top_250_watched.csv'):
+    raise Exception('file exists already - running this will overwrite inputted data')
 
 ia = imdb.IMDb()
 
