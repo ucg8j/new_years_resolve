@@ -1,0 +1,251 @@
+rank,title,watched
+1,The Shawshank Redemption,1
+2,The Godfather,1
+3,The Godfather: Part II,1
+4,The Dark Knight,1
+5,12 Angry Men,1
+6,Schindler's List,
+7,The Lord of the Rings: The Return of the King,1
+8,Pulp Fiction,
+9,"The Good, the Bad and the Ugly",
+10,The Lord of the Rings: The Fellowship of the Ring,1
+11,Fight Club,1
+12,Forrest Gump,1
+13,Inception,1
+14,The Lord of the Rings: The Two Towers,1
+15,Star Wars: Episode V - The Empire Strikes Back,1
+16,The Matrix,1
+17,Goodfellas,1
+18,One Flew Over the Cuckoo's Nest,
+19,Seven Samurai,
+20,Se7en,
+21,Life Is Beautiful,
+22,City of God,
+23,The Silence of the Lambs,
+24,It's a Wonderful Life,
+25,Star Wars: Episode IV - A New Hope,1
+26,Saving Private Ryan,1
+27,Spirited Away,1
+28,The Green Mile,1
+29,Interstellar,
+30,Parasite,1
+31,Léon: The Professional,
+32,The Usual Suspects,
+33,Hara-Kiri,
+34,The Lion King,1
+35,The Pianist,
+36,Back to the Future,
+37,Terminator 2: Judgment Day,1
+38,American History X,
+39,Modern Times,
+40,Psycho,
+41,Gladiator,1
+42,City Lights,
+43,The Departed,
+44,The Intouchables,
+45,Whiplash,1
+46,The Prestige,1
+47,Grave of the Fireflies,
+48,Once Upon a Time in the West,
+49,Casablanca,
+50,Cinema Paradiso,
+51,Hamilton,1
+52,Rear Window,
+53,Alien,
+54,Apocalypse Now,
+55,Memento,
+56,The Great Dictator,
+57,Raiders of the Lost Ark,
+58,Django Unchained,
+59,The Lives of Others,
+60,Joker,1
+61,Paths of Glory,
+62,WALL·E,
+63,The Shining,
+64,Avengers: Infinity War,
+65,Sunset Blvd.,
+66,Witness for the Prosecution,
+67,Oldboy,
+68,Princess Mononoke,
+69,Spider-Man: Into the Spider-Verse,
+70,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,
+71,The Dark Knight Rises,1
+72,Once Upon a Time in America,
+73,Aliens,
+74,Your Name.,
+75,Coco,
+76,Avengers: Endgame,
+77,American Beauty,
+78,Braveheart,
+79,Das Boot,
+80,3 Idiots,
+81,Toy Story,1
+82,Capernaum,
+83,High and Low,
+84,Amadeus,
+85,Inglourious Basterds,
+86,Star Wars: Episode VI - Return of the Jedi,1
+87,Like Stars on Earth,
+88,Good Will Hunting,1
+89,Reservoir Dogs,
+90,2001: A Space Odyssey,
+91,Requiem for a Dream,1
+92,Vertigo,
+93,M,
+94,The Hunt,
+95,Eternal Sunshine of the Spotless Mind,1
+96,Citizen Kane,1
+97,Dangal,
+98,Full Metal Jacket,
+99,Singin' in the Rain,
+100,Bicycle Thieves,
+101,The Kid,
+102,1917,1
+103,North by Northwest,
+104,A Clockwork Orange,
+105,Snatch,
+106,Scarface,
+107,Ikiru,
+108,Taxi Driver,
+109,Come and See,
+110,Toy Story 3,
+111,Lawrence of Arabia,
+112,Amélie,1
+113,The Sting,
+114,A Separation,
+115,Metropolis,
+116,Incendies,
+117,For a Few Dollars More,
+118,The Apartment,
+119,Double Indemnity,
+120,To Kill a Mockingbird,1
+121,Up,
+122,Indiana Jones and the Last Crusade,
+123,Heat,
+124,L.A. Confidential,
+125,Die Hard,
+126,Monty Python and the Holy Grail,1
+127,Green Book,
+128,Yojimbo,
+129,Rashomon,
+130,Batman Begins,1
+131,Downfall,
+132,Children of Heaven,
+133,Unforgiven,
+134,Some Like It Hot,
+135,Ran,
+136,Howl's Moving Castle,
+137,All About Eve,
+138,A Beautiful Mind,1
+139,Casino,
+140,The Great Escape,1
+141,The Wolf of Wall Street,1
+142,Pan's Labyrinth,1
+143,The Secret in Their Eyes,
+144,"Lock, Stock and Two Smoking Barrels",
+145,There Will Be Blood,
+146,My Neighbor Totoro,
+147,Raging Bull,
+148,Judgment at Nuremberg,
+149,The Treasure of the Sierra Madre,
+150,Dial M for Murder,
+151,"Three Billboards Outside Ebbing, Missouri",
+152,Shutter Island,
+153,The Gold Rush,
+154,Chinatown,
+155,My Father and My Son,
+156,No Country for Old Men,
+157,V for Vendetta,1
+158,Soul,
+159,Inside Out,
+160,The Seventh Seal,
+161,The Elephant Man,1
+162,Warrior,
+163,The Thing,
+164,The Sixth Sense,
+165,Trainspotting,
+166,Anand,
+167,Jurassic Park,1
+168,The Truman Show,1
+169,Gone with the Wind,
+170,Klaus,
+171,Finding Nemo,1
+172,Wild Strawberries,
+173,Stalker,
+174,Blade Runner,1
+175,Kill Bill: Vol. 1,1
+176,Memories of Murder,
+177,The Bridge on the River Kwai,1
+178,Fargo,
+179,Room,
+180,The Third Man,
+181,Gran Torino,
+182,On the Waterfront,
+183,Wild Tales,
+184,Tokyo Story,
+185,The Deer Hunter,
+186,Autumn Sonata,
+187,In the Name of the Father,
+188,Mary and Max,
+189,Gone Girl,
+190,The Grand Budapest Hotel,1
+191,Before Sunrise,
+192,Hacksaw Ridge,
+193,Catch Me If You Can,1
+194,Andhadhun,
+195,Persona,
+196,Prisoners,
+197,The Big Lebowski,
+198,To Be or Not to Be,
+199,Sherlock Jr.,
+200,The General,
+201,How to Train Your Dragon,
+202,The Bandit,
+203,Ford v Ferrari,
+204,12 Years a Slave,
+205,Barry Lyndon,
+206,Mr. Smith Goes to Washington,
+207,Mad Max: Fury Road,
+208,Time of the Gypsies,
+209,Million Dollar Baby,1
+210,Network,1
+211,Dead Poets Society,
+212,Stand by Me,
+213,Ben-Hur,
+214,Harry Potter and the Deathly Hallows: Part 2,1
+215,Cool Hand Luke,
+216,Hachi: A Dog's Tale,
+217,Platoon,
+218,Logan,
+219,Into the Wild,1
+220,The Handmaiden,
+221,Rush,
+222,The Wages of Fear,
+223,Monty Python's Life of Brian,
+224,The 400 Blows,
+225,Spotlight,1
+226,The Passion of Joan of Arc,
+227,Hotel Rwanda,
+228,La Haine,
+229,Andrei Rublev,
+230,Amores Perros,
+231,Vikram Vedha,
+232,Rocky,
+233,Gangs of Wasseypur,
+234,"Monsters, Inc.",1
+235,Nausicaä of the Valley of the Wind,
+236,Rebecca,
+237,Rififi,
+238,Rang De Basanti,
+239,Before Sunset,
+240,In the Mood for Love,
+241,Portrait of a Lady on Fire,1
+242,"Paris, Texas",
+243,It Happened One Night,
+244,The Invisible Guest,
+245,The Help,
+246,Drishyam,
+247,The Princess Bride,
+248,The Battle of Algiers,
+249,Tangerines,
+250,Winter Sleep,
