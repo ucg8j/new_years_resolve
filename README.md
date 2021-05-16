@@ -373,3 +373,4 @@
 ## Additional Resources ##
 * [Mental Models/Heuristics](http://www.defmacro.org/2016/12/22/models.html)
 * [The year ahead another workbook](http://yearcompass.com/)
+* [Find the Hard Work You're Willing to Do](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
