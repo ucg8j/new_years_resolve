@@ -11,7 +11,7 @@
 
 [Desiderata - A sagely prose poem](http://mwkworks.com/desiderata.html)
 
-
+> You are not the voice inside your head, you are the one that listens to it.
 ## Past Year's Reflections ##
 > ... you want to get the brain thinking about this stuff... You don't need to get into thorough detail yet, as that comes later.
 
