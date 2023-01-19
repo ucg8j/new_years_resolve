@@ -1,17 +1,16 @@
 # New Year's Resolve
 > Based on [8760hrs](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view)
 
-# content to remind yourself of
+# Content to remind yourself of
 > Good, better, best. Never let it rest.
 
-> Summum Bonum - wisdom, courage, self-control and justice.
+> [Summum Bonum](https://en.wikipedia.org/wiki/Summum_bonum) - wisdom, courage, self-control and justice.
 
->You will forget the people who hurt you. But you will remember the people you hurt. You will accept the things you tried and failed. But you will regret not trying. Going against your ethics will leave scars on your soul, and the reasons for doing so will seem so stupid in hindsight.
+>You will forget the people who hurt you. But you will remember the people you hurt. You will accept the things you tried and failed. But you will regret not trying. Going against your ethics will leave scars on your soul, and the reasons for doing so will seem so stupid in hindsight. - Source: [HN comment](https://news.ycombinator.com/item?id=24527978)
 
 >You are not the voice inside your head, you are the one that listens to it.
 
-> You are God in the Dance of Life. When you are dancing you are not not intent on getting somewhere.... the meaning and purpose of dancing is the dance
-> A. Watts
+> You are God in the Dance of Life. When you are dancing you are not not intent on getting somewhere.... the meaning and purpose of dancing is the dance - Alan Watts
 
 >[Remind yourself of the Toolbox Fallacy](https://www.youtube.com/watch?v=sz4YqwH_6D0)
 
